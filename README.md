@@ -1,2 +1,2 @@
 # react-app-starter
-For spinning up a new React app
+Small repo for initiating React based apps.
