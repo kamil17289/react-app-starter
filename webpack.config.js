@@ -32,7 +32,7 @@ module.exports = ({mode}) => {
                     exclude: /node_modules/,
                     loader: 'babel-loader', // Babel config in .babelrc,
                     resolve: {
-                        extensions: ['.jsx', '.js'] // allow imporint JS files without extensions
+                        extensions: ['.jsx', '.js'] // allow importing JS files without extensions
                     }
                 },
                 {
